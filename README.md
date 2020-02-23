@@ -1,1 +1,1 @@
-# Скелет приложения на express
+# Blank skeleton with express and sessions
